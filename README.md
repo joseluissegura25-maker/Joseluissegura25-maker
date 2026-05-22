@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jose Luis Segura 👋
+# ¡Hola! Soy Jose Luis  👋
 
 Estudiante apasionado de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me encanta dar vida a ideas a través del código, crear interfaces intuitivas y aprender tecnologías nuevas cada día.
 
