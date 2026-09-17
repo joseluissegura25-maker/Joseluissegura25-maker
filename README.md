@@ -5,14 +5,14 @@ Estudiante apasionado de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. M
 ---
 
 ### 🚀 Sobre mí
-- 🎓 Actualmente cursando el Ciclo Superior de DAM.
-- 💡 Buscando constantemente proyectos retadores para mejorar mis habilidades.
-- 🌱 Aprendiendo activamente sobre desarrollo móvil y arquitecturas de software.
+-  Actualmente cursando el Ciclo Superior de DAM (2ºDAM).
+-  Buscando constantemente proyectos retadores para mejorar mis habilidades.
+-  Aprendiendo activamente sobre desarrollo móvil y arquitecturas de software.
 
 ### 🛠️ Mis Tecnologías y Herramientas
 Aquí puedes usar iconos de shields.io o simples viñetas:
 - **Lenguajes:** Java, HTML/CSS y XML
-- **Bases de Datos & Lenguajes de consulta:** XQuery, XPath, MySQL, PostgreSQL
+- **Bases de Datos & Lenguajes de consulta:** XQuery, XPath, MySQL
 - **Herramientas & ERPs:** Git, GitHub, Odoo, BaseX
 
 ### 📈 Mis Estadísticas de GitHub
